@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/" alt="header"/>
+</div>
+<p align="center"> (Open for Hiring)</p>
+
 ### console.log('Hi, I'm Ricardo 👋')
 
 <h2>About Me <img align="right" alt="Profile Hits" src="https://komarev.com/ghpvc/?username=jricardocam"></h2>
